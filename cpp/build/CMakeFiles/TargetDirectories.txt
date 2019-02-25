@@ -1,0 +1,6 @@
+/home/roy/Desktop/Drowsiness_Detection/cpp/build/CMakeFiles/edit_cache.dir
+/home/roy/Desktop/Drowsiness_Detection/cpp/build/CMakeFiles/rebuild_cache.dir
+/home/roy/Desktop/Drowsiness_Detection/cpp/build/CMakeFiles/drowsinessDetect.dir
+/home/roy/Desktop/Drowsiness_Detection/cpp/build/dlib_build/CMakeFiles/edit_cache.dir
+/home/roy/Desktop/Drowsiness_Detection/cpp/build/dlib_build/CMakeFiles/rebuild_cache.dir
+/home/roy/Desktop/Drowsiness_Detection/cpp/build/dlib_build/CMakeFiles/dlib.dir
